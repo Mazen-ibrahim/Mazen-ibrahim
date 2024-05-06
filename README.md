@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">I'm a junior embedded software developer. graduated from faculty of Computer & information science Ain shams in Egypt</p>
-
+<p align="left">I'm a Junior Embedded Software Developer.</p>
+<p align="left">I'm Graduated from Faculty of Computer & information science Ain shams in Egypt</p>
 ###
 
 <div align="center">
