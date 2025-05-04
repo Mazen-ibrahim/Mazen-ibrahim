@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">I'm a Junior Embedded Software Developer.</p>
-<p align="left">I'm Graduated from Faculty of Computer & information science Ain shams in Egypt</p>
+<p align="left">Motivated engineer with a B.Sc. in Computer and Information Science (Ain Shams University). Passionate about Software development ,embedded systems, IoT, and cross-platform app development using Flutter, Data Analysis , linux based Systems.</p>
 ###
 
 <div align="center">
