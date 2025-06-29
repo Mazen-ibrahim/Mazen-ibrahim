@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Motivated engineer with a B.Sc. in Computer and Information Science (Ain Shams University). Passionate about Software development ,embedded systems, IoT, and cross-platform app development using Flutter, Data Analysis , linux based Systems.</p>
+<p align="left">Motivated Software Engineer with a B.Sc. in Computer and Information Science (Ain Shams University). Passionate about Software development ,embedded systems, IoT, and cross-platform app development using Flutter, Data Analysis , linux based Systems.</p>
 ###
 
 <div align="center">
