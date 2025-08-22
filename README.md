@@ -36,11 +36,7 @@ Passionate about Software Development, Embedded Systems, IoT, and Cross-Platform
   <!-- ✅ SQL logo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo"  />
   <img width="12" />
-  <!-- ✅ IoT logo -->
-  <img src="https://www.svgrepo.com/show/428413/iot.svg" height="40" alt="iot logo" />
-  <img width="12" />
-  <!-- ✅ ESP32 logo -->
-  <img src="https://raw.githubusercontent.com/mazenibrahim/icons/main/esp32.svg" height="40" alt="esp32 logo" />
+
 </div>
 
 ###
