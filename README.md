@@ -2,10 +2,10 @@
 
 ###
 
-<p align="left">Motivated Software Engineer with a B.Sc. in Computer and Information Science (Ain Shams University). Passionate about Software development ,embedded systems, IoT, and cross-platform app development using Flutter, Data Analysis , linux based Systems.</p>
-###
-
-
+<p align="left">
+Motivated Software Engineer with a B.Sc. in Computer and Information Science (Ain Shams University).  
+Passionate about Software Development, Embedded Systems, IoT, and Cross-Platform App Development using Flutter, Data Analysis, and Linux-based Systems.
+</p>
 
 ###
 
@@ -18,7 +18,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="[https://www.svgrepo.com/svg/349363/flutter]" height="40" alt="Flutter logo"  />
+  <!-- ✅ Flutter logo (fixed) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
@@ -31,11 +32,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img width="12" />
+  <!-- ✅ SQL logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+  <!-- ✅ IoT logo -->
+  <img src="https://www.svgrepo.com/show/428413/iot.svg" height="40" alt="iot logo" />
+  <img width="12" />
+  <!-- ✅ ESP32 logo -->
+  <img src="https://raw.githubusercontent.com/mazenibrahim/icons/main/esp32.svg" height="40" alt="esp32 logo" />
 </div>
-
-###
-
-<p align="left"></p>
 
 ###
 
@@ -44,5 +50,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
