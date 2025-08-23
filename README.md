@@ -40,8 +40,12 @@ I also enjoy working on **Data Analysis, Linux-based Systems, and IoT solutions 
 
 
 ---
-
-
+## Projects  
+ Mobile Apps
+- 🛒 [**Grocery App**](https://github.com/mazenibrahim/grocery_app) – Simple Flutter app to manage groceries efficiently with Dashboard, Add Item, and Analysis screen.  
+- 💬 [**Smart Fridge Monitoring**](https://github.com/mazenibrahim/smart_fridge_monitoring) – Flutter application app for real-time monitoring and management of smart fridges in a production line.
+- 
+---
 ## Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/mazen-ibrahim-ab4285191/" target="_blank">
