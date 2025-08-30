@@ -44,6 +44,7 @@ I also enjoy working on **Data Analysis, Linux-based Systems, and IoT solutions 
  Mobile Apps
 - [**Grocery App**](https://github.com/Mazen-ibrahim/Flutter-Projects/tree/main/grocery_app) – Simple Flutter app to manage groceries efficiently with Dashboard, Add Item, and Analysis screen.  
 - [**Smart Fridge Monitoring**](https://github.com/Mazen-ibrahim/Flutter-Projects/tree/main/smart_fridge_monitoring) – Flutter application app for real-time monitoring and management of smart fridges in a production line.
+- [**Places Tracker App**](https://github.com/Mazen-ibrahim/Flutter-Projects/tree/main/places) - A Flutter application that allows users to save and manage memorable places they visit
 
 ---
 ## Connect with Me
