@@ -47,7 +47,7 @@ I also enjoy working on **Data Analysis, Linux-based Systems, and IoT solutions 
 - [**Places Tracker App**](https://github.com/Mazen-ibrahim/Flutter-Projects/tree/main/places) - A Flutter application that allows users to save and manage memorable places they visit
 
  **Embedded Systems**
- -[**Braille Display Device**](https://github.com/Mazen-ibrahim/Braille-Display-System) - This system was created to aid in the **education of blind and visually impaired people**, providing interactive learning and accessibility tools
+ - [**Braille Display Device**](https://github.com/Mazen-ibrahim/Braille-Display-System) - This system was created to aid in the **education of blind and visually impaired people**, providing interactive learning and accessibility tools
 
 ---
 ## Connect with Me
