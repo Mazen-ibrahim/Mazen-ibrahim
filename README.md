@@ -2,7 +2,7 @@
 
  **Motivated Software Engineer** with a B.Sc. in Computer and Information Science (Ain Shams University).  
 Passionate about **Software Development, Embedded Systems, IoT, and Cross-Platform App Development with Flutter**.  
-I also enjoy working on **Data Analysis, Linux-based Systems, and IoT solutions with ESP32 & Raspberry Pi**.  
+I also enjoy working on **Data Analysis, Linux-based Systems, and IoT solutions**.  
 
 ---
 ## Tech Stack
