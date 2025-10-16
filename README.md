@@ -49,6 +49,9 @@ I also enjoy working on **Data Analysis, Linux-based Systems, and IoT solutions*
  **Embedded Systems**
  - [**Braille Display Device**](https://github.com/Mazen-ibrahim/Braille-Display-System) - This system was created to aid in the education of blind and visually impaired people providing interactive learning and accessibility tools
 
+ **Parallel Programming**
+ - [**DNA sequences**](https://github.com/Mazen-ibrahim/Parallel-Programing-DNA_Sequence) - This project demonstrates the power of parallel programming by analyzing DNA sequences using four computational approaches.
+
 ---
 ## Connect with Me
 <div align="left">
