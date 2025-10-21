@@ -45,7 +45,7 @@ I also enjoy working on **Data Analysis, Linux-based Systems, and IoT solutions*
 - [**Grocery App**](https://github.com/Mazen-ibrahim/Flutter-Projects/tree/main/grocery_app) – Simple Flutter app to manage groceries efficiently with Dashboard, Add Item, and Analysis screen.  
 - [**Smart Fridge Monitoring**](https://github.com/Mazen-ibrahim/Flutter-Projects/tree/main/smart_fridge_monitoring) – Flutter application app for real-time monitoring and management of smart fridges in a production line.
 - [**Places Tracker App**](https://github.com/Mazen-ibrahim/Flutter-Projects/tree/main/places) - A Flutter application that allows users to save and manage memorable places they visit
-- [**To-Do App**](https://github.com/Mazen-ibrahim/Flutter-Projects/tree/main/todo) - A Flutter application that allows users to save and manage memorable places they visit
+- [**To-Do App**](https://github.com/Mazen-ibrahim/Flutter-Projects/tree/main/todo) - A modern and responsive Task Management App built with Flutterand GetX for state management.
 
  **Embedded Systems**
  - [**Braille Display Device**](https://github.com/Mazen-ibrahim/Braille-Display-System) - This system was created to aid in the education of blind and visually impaired people providing interactive learning and accessibility tools
