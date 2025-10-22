@@ -59,4 +59,8 @@ I also enjoy working on **Data Analysis, Linux-based Systems, and IoT solutions*
   <a href="https://www.linkedin.com/in/mazen-ibrahim-ab4285191/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  
+  <a href="mailto:ibrahimmazen945@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40"/>
+  </a>
 </div>
